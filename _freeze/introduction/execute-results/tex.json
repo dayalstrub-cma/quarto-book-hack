@@ -1,0 +1,11 @@
+{
+  "hash": "302ab5f1fc2609ca5e871841a9328972",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Introduction\n---\n\n\n\n::: {.cell execution_count=2}\n\n::: {.cell-output .cell-output-display}\n![Timeline of recent earthquakes on La Palma](introduction_files/figure-pdf/fig-timeline-output-1.pdf){#fig-timeline fig-alt='An event plot of the years of the last 8 eruptions on La Palma.'}\n:::\n:::\n\n\n\n\nBased on data up to and including 1971, eruptions on La Palma happen every 79.83 years on average.\n\n",
+    "supporting": [
+      "introduction_files/figure-pdf"
+    ],
+    "filters": []
+  }
+}

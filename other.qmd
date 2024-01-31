@@ -1,0 +1,16 @@
+---
+title: Other section
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.1
+  kernelspec:
+    display_name: Python 3.11
+    language: python
+    name: py311
+---
+
+This is another section, which could also have lots of computations producing lots of pretty pictures and code inline in the text.

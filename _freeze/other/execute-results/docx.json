@@ -1,0 +1,11 @@
+{
+  "hash": "4d37e94189dba343dbf4e60baa20fd14",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Other section\n---\n\nThis is another section, which could also have lots of computations producing lots of pretty pictures and code inline in the text.\n\n",
+    "supporting": [
+      "other_files/figure-docx"
+    ],
+    "filters": []
+  }
+}

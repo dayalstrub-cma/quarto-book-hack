@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: _output
+
+book:
+  title: "Manuscript using quarto book project template"
+  author: 
+    - name: "Jane Doe"
+      id: jd
+      affiliation: University A
+    - name: "John Do"
+      id: dj
+      affiliation: University B
+  date: today
+  abstract: |
+    This is a really cool article...
+  keyword: Metaphysics, String Theory
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - other.qmd
+    # - references.qmd
+
+bibliography: references.bib
+
+format:
+  html: default
+  pdf:
+    documentclass: scrreport
+    include-in-header: preamble.tex
+    toc-title: Contents
+  docx: default
+    
+execute:
+  echo: false
+  freeze: auto

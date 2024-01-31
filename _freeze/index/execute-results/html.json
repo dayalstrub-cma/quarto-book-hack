@@ -1,0 +1,12 @@
+{
+  "hash": "7657d3eefabd778bc8956a475ca8b29b",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Placeholder\n---\n\nWhat to put in index file for an article? See (somewhat relevant) Github [ticket](https://github.com/quarto-dev/quarto-cli/issues/2556).\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

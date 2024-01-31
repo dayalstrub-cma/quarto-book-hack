@@ -1,0 +1,16 @@
+---
+title: Placeholder
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.16.1
+  kernelspec:
+    display_name: Python 3.11
+    language: python
+    name: py311
+---
+
+What to put in index file for an article? See (somewhat relevant) Github [ticket](https://github.com/quarto-dev/quarto-cli/issues/2556).
